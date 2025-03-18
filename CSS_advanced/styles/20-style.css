@@ -83,7 +83,7 @@
   .row::after {
     content: "";
     display: table;
-    float: none;
+    clear: both;
   }
   .nav .nav-link {
     display: block;
